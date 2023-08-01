@@ -1,0 +1,8 @@
+E:\Collage Folder\SEM 5\.net\Practicals\C# (C sharp)\Lab_6\p3\bin\Debug\p3.exe.config
+E:\Collage Folder\SEM 5\.net\Practicals\C# (C sharp)\Lab_6\p3\bin\Debug\p3.exe
+E:\Collage Folder\SEM 5\.net\Practicals\C# (C sharp)\Lab_6\p3\bin\Debug\p3.pdb
+E:\Collage Folder\SEM 5\.net\Practicals\C# (C sharp)\Lab_6\p3\obj\Debug\p3.csproj.AssemblyReference.cache
+E:\Collage Folder\SEM 5\.net\Practicals\C# (C sharp)\Lab_6\p3\obj\Debug\p3.csproj.SuggestedBindingRedirects.cache
+E:\Collage Folder\SEM 5\.net\Practicals\C# (C sharp)\Lab_6\p3\obj\Debug\p3.csproj.CoreCompileInputs.cache
+E:\Collage Folder\SEM 5\.net\Practicals\C# (C sharp)\Lab_6\p3\obj\Debug\p3.exe
+E:\Collage Folder\SEM 5\.net\Practicals\C# (C sharp)\Lab_6\p3\obj\Debug\p3.pdb
